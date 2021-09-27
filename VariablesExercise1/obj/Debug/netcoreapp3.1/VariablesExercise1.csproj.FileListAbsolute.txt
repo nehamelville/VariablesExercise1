@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/bin/Debug/netcoreapp3.1/VariablesExercise1.deps.json
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/bin/Debug/netcoreapp3.1/VariablesExercise1.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/bin/Debug/netcoreapp3.1/VariablesExercise1.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/bin/Debug/netcoreapp3.1/VariablesExercise1.dll
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/bin/Debug/netcoreapp3.1/VariablesExercise1.pdb
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.dll
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.pdb
+/Users/neha.melville/Desktop/Repo/VariablesExercise1/VariablesExercise1/obj/Debug/netcoreapp3.1/VariablesExercise1.genruntimeconfig.cache
